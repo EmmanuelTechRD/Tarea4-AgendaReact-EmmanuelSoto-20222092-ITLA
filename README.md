@@ -4,7 +4,6 @@ Esta es la tarea #4 de Emmanuel Soto, esta es la captura de pantalla:
 
 <!-- Illustration image. -->
 ![Mi captura de pantalla](./src/resources/mitarea.png)
-
 > Foto de mi Agenda en React.
 
 Tarea #4 </> Agenda React:

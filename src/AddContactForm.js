@@ -16,7 +16,6 @@ const AddContactForm = ({ agregarContacto }) => {
 
     agregarContacto(nuevoContacto);
 
-    // Limpiar los campos después de agregar el contacto
     setNombre('');
     setApellido('');
     setTelefono('');

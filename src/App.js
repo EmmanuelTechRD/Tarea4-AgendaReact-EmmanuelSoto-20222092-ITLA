@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from 'react';
-import './App.css'; // Crear un archivo App.css para tus estilos
+import './App.css';
 import AddContactForm from './AddContactForm';
 import ContactList from './ContactList';
 import miImagen from './resources/agenda.png';
